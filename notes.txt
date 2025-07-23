@@ -1,0 +1,6 @@
+1) what are passed as children inside the function written in layout 
+i) Anything written inside <Layout>...</Layout> (automatically by Next.js in this case) becomes the children of the Layout component.
+ii) it wraps all pages inside the folder where it is located.
+these two becomes the children of layout 
+
+2) @uiw/react-md-editor is already installed -> understand the code of components from the github repo and make the app fully functional 
